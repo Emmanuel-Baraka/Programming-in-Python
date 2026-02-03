@@ -1,3 +1,5 @@
+#EMMANUEL BARAKA 
+#REG NO: BSCIT-05-0113/2024
 #Assigning Variables
 hours_worked = float(input("Enter the hours worked: "))
 rate_per_hour = float(input("Enter the rate per hour: "))
@@ -12,3 +14,4 @@ print("The Gross pay is :  ",gross_pay)
 f = open("C:\\Users\\LENOVO\\Desktop\\Python Files\\python.txt","a")
 print("The Gross Pay is:  ", gross_pay , file=f)
 f.close()
+
