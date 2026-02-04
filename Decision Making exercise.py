@@ -38,3 +38,4 @@ else:
 f = open("C:\\Users\\LENOVO\\Desktop\\Python Files\\Python decision making.txt","a")
 print("Average grade is : ", grade , file=f)
 f.close()
+
