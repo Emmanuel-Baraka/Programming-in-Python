@@ -1,7 +1,8 @@
 
 
-#Mbaga Tuzinde mahaga 
-#Admission no:BSCIT-01-0064/2025# Parent class
+#NAME : EMMANUEL BARAKA 
+# REG NO : BSCIT-05-0113/2024
+# Parent class
 class Animal:
     def fur(self):
         print("I have fur all over my body.")
