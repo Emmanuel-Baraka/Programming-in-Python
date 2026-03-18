@@ -1,3 +1,6 @@
+# NAME : EMMANUEL BARAKA 
+#REG NO : BSCIT/05/0113/2024
+
 class BankAccount:
     def __init__(self, account_number, balance, date_of_opening, customer_name):
         # Initializing the attributes
